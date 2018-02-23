@@ -1,0 +1,8 @@
+{
+  "name": "QoqaApp",
+  "app_id": "a1aa87f4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
